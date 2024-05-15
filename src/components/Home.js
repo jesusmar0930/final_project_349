@@ -14,7 +14,7 @@ const Home = () => {
 
       <div className="about">  {/* About me section */}
         <h2>About Me</h2>
-        <p>I am a 4th year Computer Science Major at CSUFI.</p>
+        <p>I am a 4th year Computer Science Major at CSUF!</p>
       </div>
     </section>
   );
