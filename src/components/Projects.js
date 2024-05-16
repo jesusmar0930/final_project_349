@@ -27,11 +27,11 @@ const Projects = () => {
       link: 'https://github.com/jesusmar0930',
       image: djangoPythonLogo,
       timeline: [
-        { date: 'Jun 2022', milestone: 'Project Kickoff' },
-        { date: 'Jul 2022', milestone: 'Backend Development' },
+        { date: 'Jun 2022', milestone: 'Project Started' },
+        { date: 'Jul 2022', milestone: 'Design Phase' },
         { date: 'Aug 2022', milestone: 'API Integration' },
         { date: 'Sep 2022', milestone: 'Testing and Bug Fixes' },
-        { date: 'Oct 2022', milestone: 'Launch' },
+        { date: 'Oct 2022', milestone: 'Deployment' },
       ],
     },
     {
@@ -42,13 +42,13 @@ const Projects = () => {
       image: Spaceship,
       timeline: [
         { date: 'Jun 2022', milestone: 'Project Kickoff' },
-        { date: 'Jul 2022', milestone: 'Backend Development' },
-        { date: 'Aug 2022', milestone: 'API Integration' },
+        { date: 'Jul 2022', milestone: 'Rocket Science' },
+        { date: 'Aug 2022', milestone: 'Some Physics' },
         { date: 'Sep 2022', milestone: 'Testing and Bug Fixes' },
         { date: 'Oct 2022', milestone: 'Launch' },
       ],
     },
-    // Add more projects...
+    
   ];
 
   return (
