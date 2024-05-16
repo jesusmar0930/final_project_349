@@ -12,8 +12,8 @@ const Contact = () => {
     <section className="contact">
       <h2>Contact Me</h2>
       <div className="contact-info">  {/* Display contact details and social links */}
-        <p>Email: your-email@example.com</p> 
-        <p>Phone: +1234567890</p>
+        <p>Email: lebronFan@gmail.com</p> 
+        <p>Phone: +6262138912</p>
         <div className="social-links">
           <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
             <i className="fab fa-github"></i> {/* GitHub icon */}
